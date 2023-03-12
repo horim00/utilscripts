@@ -1,0 +1,1 @@
+Get-ChildItem * -Include *.pdf -Recurse | Remove-Item -Confirm
